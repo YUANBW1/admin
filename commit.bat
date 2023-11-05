@@ -1,0 +1,1 @@
+git add . &&  git pull && git commit -m 'x' --no-verify  && git push origin master 
